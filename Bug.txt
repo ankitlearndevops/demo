@@ -1,0 +1,13 @@
+&& 7
+
+
+1) ls 
+2) ll
+3) mkdir
+
+
+
+Images from Patient app is not getting displayed. 
+
+
+1) BUG-17582: Image problem in chat
