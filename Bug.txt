@@ -6,6 +6,7 @@
 3) mkdir
 
 
+Changing data from master branch and as a collaborator. 
 
 Images from Patient app is not getting displayed. 
 
