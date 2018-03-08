@@ -14,4 +14,5 @@ Images from Patient app is not getting displayed.
 Added from local server 1) BUG-17582: Image problem in chat
 
 
-Making a new change in the command. 
+
+INITMaking a new change in the command. 
